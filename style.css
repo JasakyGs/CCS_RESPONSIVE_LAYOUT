@@ -60,14 +60,14 @@ body{
 }
 
 .article{
-    border: 1px solid;
+   /* border: 1px solid;*/
     background-color: rgb(151, 57, 209);
     width: 90%;
 }
 
 
 .footer{
-    border: 2px solid ;
+    /*border: 2px solid ;*/
     background-color: rgb(68, 161, 228);
 
     /* grid-column: 1 / 3; */
